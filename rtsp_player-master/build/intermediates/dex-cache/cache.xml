@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\Github\rtsp_player-master\app\build\intermediates\exploded-aar\rtsp_player-master\VideoIjkplayer\unspecified\jars\libs\libksyplayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="229835f845f25cf6ba5a34db69b7190b54a01ce7">
+        <dex dex="F:\Github\rtsp_player-master\app\build\intermediates\pre-dexed\debug\libksyplayer_9593c9bb4b6658ff25e979903174839a7b5102bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Github\rtsp_player-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="F:\Github\rtsp_player-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_820215124b5ae2b99cee42a0569006347b033f43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Github\rtsp_player-master\app\build\intermediates\exploded-aar\com.google.android.exoplayer\exoplayer\r1.5.11\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0a919fdfb7808ff27b33e6e84ec990478abc9cf1">
+        <dex dex="F:\Github\rtsp_player-master\app\build\intermediates\pre-dexed\debug\com.google.android.exoplayer-exoplayer-r1.5.11_e07e88d1a4895d3477679947f4b509f6235be473.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Github\rtsp_player-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="F:\Github\rtsp_player-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_81c06b79d166148223bfe7bb91bf88c4c361d57b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Github\rtsp_player-master\app\build\intermediates\exploded-aar\rtsp_player-master\VideoIjkplayer\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="985225ab6483591bc4556d302474285dfd675a63">
+        <dex dex="F:\Github\rtsp_player-master\app\build\intermediates\pre-dexed\debug\rtsp_player-master-VideoIjkplayer-unspecified_6be6ee6de7709d07e79004eb4e724f5a8de2ca29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Github\rtsp_player-master\app\build\intermediates\exploded-aar\rtsp_player-master\ijkplayer-exo\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="97c6c57b9f220d1c67a83b91cee9c6ec8bcce1fa">
+        <dex dex="F:\Github\rtsp_player-master\app\build\intermediates\pre-dexed\debug\rtsp_player-master-ijkplayer-exo-unspecified_5ec55a872a9269b9e2ddf785361e5b435c584ff0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Github\rtsp_player-master\app\build\intermediates\exploded-aar\rtsp_player-master\VideoIjkplayer\unspecified\jars\libs\libksystat.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="54ac3fcf79e1221e21d137c1613ad761c416eff2">
+        <dex dex="F:\Github\rtsp_player-master\app\build\intermediates\pre-dexed\debug\libksystat_4a4e328e25aa62fa4774ccf72b5b1184ec5b4b66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Github\rtsp_player-master\app\build\intermediates\exploded-aar\rtsp_player-master\ijkplayer-java\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6388c686bd9411259f2a0ec3d82fe204934f58cd">
+        <dex dex="F:\Github\rtsp_player-master\app\build\intermediates\pre-dexed\debug\rtsp_player-master-ijkplayer-java-unspecified_c2b1d285d811e9c3eb2383ee6b29b3b0bfeda2ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Github\rtsp_player-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="F:\Github\rtsp_player-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_321dcc8fabf7719a2310c2deb83f638641dddb35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="F:\Github\rtsp_player-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_9ab823d35e2bc4e81253af789d743dbc64038404.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Github\rtsp_player-master\app\build\intermediates\exploded-aar\rtsp_player-master\ijkplayer-armv7a\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d207b06b5c33bcb012e52977475a5b1263821e9f">
+        <dex dex="F:\Github\rtsp_player-master\app\build\intermediates\pre-dexed\debug\rtsp_player-master-ijkplayer-armv7a-unspecified_d24d9f4b4795df7c0daa1030b58bdbbd0afeacde.jar" />
+    </item>
+
+</items>
