@@ -16,14 +16,18 @@ public class MainActivity extends AppCompatActivity implements PlayerManager.Pla
     private String url = "rtsp://192.168.2.67:8554/MainStream";          //测试rtsp会出现一定几率的播放黑屏情况
 //        private String url = "rtmp://live.hkstv.hk.lxdns.com/live/hks";  //测试用香港卫视可行
 //    private String url = "http://9890.vod.myqcloud.com/9890_4e292f9a3dd011e6b4078980237cc3d3.f30.mp4";   //测试MP4可行
-
+//    private String url = "file:///storage/emulated/0/Download/thor-mp4.mp4";    //本地高清mp4视频，测试可行
+//    private String url = "file:///storage/emulated/0/Download/rmvb-test.rmvb";    //rmvb可行
+//    private String url = "file:///storage/emulated/0/Download/avi-test.avi";      //avi可行
+//        private String url = "file:///storage/emulated/0/Download/split.avi";      //avi可行
+//    private String url = "file:///storage/emulated/0/Download/mkv-test.mkv";        //mkv可行
     private PlayerManager player;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-       initPlayer();
+        initPlayer();
     }
 
     private void initPlayer() {

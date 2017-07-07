@@ -7,7 +7,7 @@ import com.li.ijkdemo.BuildConfig;
 
 /**
  * 日志工具类 在发布时不显示日志
- * @author RANDY_ZHANG
+ *
  */
 public class DebugLog {
 
